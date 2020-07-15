@@ -1,1 +1,2 @@
 teste arquivo2
+linha adicionada
